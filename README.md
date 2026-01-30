@@ -4,10 +4,6 @@
 
 ###
 
-<h1 align="left">Jonathan's Space</h1>
-
-###
-
 <p align="left">Hi, I'm Jonathan from Colombia, a systems engineer passionate about helping companies achieve their digital goals through process optimization, time savings, and higher ROI.</p>
 
 ###
